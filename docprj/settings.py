@@ -57,6 +57,7 @@ INSTALLED_APPS = [
     'documents',
 
     #external apps
+    'channels', 
     'django_ckeditor_5',
     'widget_tweaks',
 
